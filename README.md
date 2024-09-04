@@ -25,6 +25,11 @@ This project involves predicting housing prices using a Linear Regression model.
    - Analysis of residuals to ensure model accuracy and check for issues like heteroscedasticity.
 
 
+## Dataset Link
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+## Code On Kaggle
+https://www.kaggle.com/code/solimankhalil/ml-model-linear-regression-housing-dataset
+
 
 
 
